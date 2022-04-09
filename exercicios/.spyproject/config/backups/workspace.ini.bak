@@ -6,5 +6,5 @@ save_non_project_files = False
 
 [main]
 version = 0.2.0
-recent_files = ['ex011.py', 'ex012.py']
+recent_files = ['ex018.py', 'ex019.py']
 
